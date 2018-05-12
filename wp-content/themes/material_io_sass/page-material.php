@@ -19,21 +19,21 @@ get_header();
         <p>Dummy Heading</p>
         <li class="active">
         </li>
-          <a href="#menu">Animación</a>
+          <a href="#menu">Shop</a>
         <li>
-          <a href="#menu">Ilustración</a>
+          <a href="#menu">Blog</a>
         </li>
         <li>
-          <a href="#menu">Interacción</a>
+          <a href="#menu">Chat</a>
         </li>
         <li>
-          <a href="#">Blog</a>
+          <a href="#">Contact Us</a>
         </li>
         <li>
-          <a href="#">Acerca</a>
+          <a href="#">Photography </a>
         </li>
         <li>
-          <a href="#">contacto</a>
+          <a href="#">Portfolio</a>
         </li>
       </ul>
     </nav>
