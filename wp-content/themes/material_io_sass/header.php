@@ -48,7 +48,7 @@
 
 <body <?php body_class(); ?>>
 <div id="page" class="site">
-	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'claremontrealtygroup' ); ?></a>
+	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'material-sass' ); ?></a>
 
 	<!-- HEADER
 	================================================== -->
@@ -69,7 +69,7 @@
 							<span class="icon-bar"></span>
 						</button>
 
-						<a class="navbar-brand" href="<?php echo esc_url( home_url( '/' ) ); ?>"><img src="<?php bloginfo('stylesheet_directory'); ?>/assets/img/logo.png" alt="Bootstrap to WordPress"></a>
+						<a class="navbar-brand" href="<?php echo esc_url( home_url( '/' ) ); ?>"><img src="<?php bloginfo('stylesheet_directory'); ?>" alt=""></a>
 
 					</div><!-- navbar-header -->
 
@@ -78,10 +78,10 @@
 					<?php
 						wp_nav_menu( array(
 
-							'theme_location'	=> 'primary',
-							'container'			=> 'nav',
-							'container_class'	=> 'navbar-collapse collapse',
-							'menu_class'		=> 'nav navbar-nav navbar-right'
+							// 'theme_location'	=> 'primary',
+							// 'container'			=> 'nav',
+							// 'container_class'	=> 'navbar-collapse collapse',
+							// 'menu_class'		=> 'nav navbar-nav navbar-right'
 
 						) );
 					?>
