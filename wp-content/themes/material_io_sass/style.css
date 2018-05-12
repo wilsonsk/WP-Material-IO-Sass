@@ -91,7 +91,7 @@ SIDEBAR STYLE
 	left: 0;
 	height: 100vh;
 	z-index: 999;
-	background: #7386D5;
+	background: orangered;
 	color: #fff !important;
 	transition: all 0.3s;
 }
@@ -123,7 +123,7 @@ SIDEBAR STYLE
 }
 
 #sidebar ul li a:hover {
-	color: #7386D5;
+	color: orangred;
 	background: #fff;
 }
 
@@ -132,6 +132,8 @@ SIDEBAR STYLE
 ----------------------------------------------------- */
 
 	#content {
+		width: calc(100% - 250px);
+		padding: 40px;
 		min-height: 100vh;
 		transition: all 0.3s;
 		position: absolute;
