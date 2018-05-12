@@ -8,7 +8,7 @@
 get_header();
 ?>
 
- <div class="container" style="position:relative;">
+ <div class="container">
     <!-- Sidebar Holder -->
     <nav id="sidebar">
       <div class="sidebar-header">
