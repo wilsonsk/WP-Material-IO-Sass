@@ -10,7 +10,7 @@ get_header();
 
  <div class="container">
     <!-- Sidebar Holder -->
-    <nav id="ui__sidebar">
+    <nav class="ui__sidebar">
       <div class="ui__sidebar-header">
         <h3>Header as you want </h3>
         </h3>
@@ -38,7 +38,7 @@ get_header();
       </ul>
     </nav>
 
-    <div id="ui__content">
+    <div class="ui__content">
 
     </div>
   </div>
