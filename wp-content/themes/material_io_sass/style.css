@@ -20,7 +20,7 @@ Normalizing styles have been helped along thanks to the fine work of
 Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 */
 /*--------------------------------------------------------------
->>> TABLE OF CONTENTS:
+>>> TABLE OF ui-contentS:
 ----------------------------------------------------------------
 # Normalize
 # Typography
@@ -33,7 +33,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 # Alignments
 # Clearings
 # Widgets
-# Content
+# ui-content
 	## Posts and pages
 	## Comments
 # Infinite scroll
@@ -128,10 +128,10 @@ SIDEBAR STYLE
 }
 
 /* ---------------------------------------------------
-	CONTENT STYLE
+	ui-content STYLE
 ----------------------------------------------------- */
 
-	#content {
+	#ui-content {
 		width: calc(100% - 250px);
 		padding: 40px;
 		min-height: 100vh;
@@ -141,7 +141,7 @@ SIDEBAR STYLE
 		right: 0;
 	}
 
-	#content.active {
+	#ui-content.active {
 		width: 100%;
 	}
 	/* ---------------------------------------------------
@@ -155,10 +155,10 @@ SIDEBAR STYLE
 		#sidebar.active {
 			margin-left: 0;
 		}
-		#content {
+		#ui-content {
 			width: 100%;
 		}
-		#content.active {
+		#ui-content.active {
 			width: calc(100% - 250px);
 		}
 		#sidebarCollapse span {
