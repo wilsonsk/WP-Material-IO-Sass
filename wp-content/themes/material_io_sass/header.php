@@ -69,8 +69,6 @@
 							<span class="icon-bar"></span>
 						</button>
 
-						<a class="navbar-brand" href="<?php echo esc_url( home_url( '/' ) ); ?>"><img src="<?php bloginfo('stylesheet_directory'); ?>" alt=""></a>
-
 					</div>
 				</div>
 			</div>
