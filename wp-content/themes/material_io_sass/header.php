@@ -56,7 +56,7 @@
 
 		<!-- NAVBAR
 		================================================== -->
-		<div class="navbar-wrapper">
+		<!-- <div class="navbar-wrapper">
 
 			<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 
@@ -71,26 +71,11 @@
 
 						<a class="navbar-brand" href="<?php echo esc_url( home_url( '/' ) ); ?>"><img src="<?php bloginfo('stylesheet_directory'); ?>" alt=""></a>
 
-					</div><!-- navbar-header -->
+					</div>
+				</div>
+			</div>
 
-					<!-- If the menu (WP admin area) is not set, then the "menu_class" is applied to "container". In other words, it overwrites the "container_class". Ref: http://wordpress.org/support/topic/wp_nav_menu-menu_class-usage-bug?replies=4 -->
-
-					<?php
-						wp_nav_menu( array(
-
-							// 'theme_location'	=> 'primary',
-							// 'container'			=> 'nav',
-							// 'container_class'	=> 'navbar-collapse collapse',
-							// 'menu_class'		=> 'nav navbar-nav navbar-right'
-
-						) );
-					?>
-
-				</div><!-- container -->
-
-			</div><!-- navbar -->
-
-		</div><!-- navbar-wrapper -->
+		</div> -->
 
 	</header>
 
