@@ -8,7 +8,6 @@
 get_header();
 ?>
 
- <div class="container" style="position:relative;">
     <!-- Sidebar Holder -->
     <nav id="sidebar">
       <div class="sidebar-header">
@@ -55,7 +54,6 @@ get_header();
         </div>
       </nav>
     </div>
-  </div>
 
  <?php
  get_footer();
