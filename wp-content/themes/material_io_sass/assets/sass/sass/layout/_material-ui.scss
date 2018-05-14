@@ -10,9 +10,9 @@
     top: 0;
     right: 0;
 
-    &:active {
-      width: 100%;
-    }
+    // &:active {
+    //   width: 100%;
+    // }
 
     @media screen and (max-width: 768px) {
       width: 100%;
@@ -34,9 +34,9 @@
     color: #fff !important;
     transition: all 0.3s;
 
-    &:active {
-    	margin-left: -250px;
-    }
+    // &:active {
+    // 	margin-left: -250px;
+    // }
 
     p {
       color: #fff;
@@ -51,9 +51,9 @@
    @media screen and (max-width: 768px) {
      margin-left: -250px;
 
-     &:active {
-       margin-left: 0;
-     }
+     // &:active {
+     //   margin-left: 0;
+     // }
    }
   }
 
