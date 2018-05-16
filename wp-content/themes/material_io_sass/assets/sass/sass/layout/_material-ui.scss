@@ -16,9 +16,9 @@
     @media screen and (max-width: 768px) {
       width: 100%;
 
-      &:active {
-        width: calc(100% - 250px);
-      }
+      // &:active {
+      //   width: calc(100% - 250px);
+      // }
     }
   }
 
@@ -33,26 +33,18 @@
     color: #fff !important;
     transition: all 0.3s;
 
-    &:active {
-        margin-left: -250px;
-    }
+    // &:active {
+    //     margin-left: -250px;
+    // }
 
     p {
       color: #fff;
       padding: 10px;
     }
 
-    a:hover {
-     color: orangred;
-     background: #fff;
-   }
-
    @media screen and (max-width: 768px) {
      margin-left: -250px;
 
-     &:active {
-       margin-left: 0;
-     }
    }
   }
 
@@ -63,6 +55,5 @@
 
   &__sidebar-components {
     padding: 20px 0;
-        border-bottom: 1px solid #47748b;
   }
 }
