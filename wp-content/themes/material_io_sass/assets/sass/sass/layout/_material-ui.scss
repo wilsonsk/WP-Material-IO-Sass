@@ -55,7 +55,3 @@
     padding: 20px 0;
   }
 }
-
-.my-masonry-image-list {
-  @include mdc-image-list-masonry-columns(5);
-}
