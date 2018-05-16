@@ -58,13 +58,13 @@ get_header();
 
         <div class="mdc-layout-grid">
           <div class="mdc-layout-grid__inner">
-            <div class="mdc-layout-grid__cell">
+            <div class="mdc-layout-grid__cell" style="border:solid black 1px;">
               <h1>Test1</h1>
             </div>
-            <div class="mdc-layout-grid__cell">
+            <div class="mdc-layout-grid__cell" style="border:solid black 1px;">
               <h1>Test2</h1>
             </div>
-            <div class="mdc-layout-grid__cell--span-3-desktop">
+            <div class="mdc-layout-grid__cell--span-3-desktop" style="border:solid black 1px;">
               <h1>Test3</h1>
             </div>
           </div>
