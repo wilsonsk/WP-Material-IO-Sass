@@ -5,6 +5,9 @@ COLORS:
   Medium green: #55c57a
   Dark green: #28b485
  */
+@import "@material/image-list/mdc-image-list";
+
+
 @keyframes moveInLeft {
   0% {
     opacity: 0;
