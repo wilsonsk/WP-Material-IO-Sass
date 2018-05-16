@@ -47,43 +47,43 @@ get_header();
           </div>
         </li>
         <li class="mdc-image-list__item">
-          <img class="mdc-image-list__image" src="">
+          <img class="mdc-image-list__image" src="<?php bloginfo('template_directory') ?>/assets/img/nat-4.jpg">
           <div class="mdc-image-list__supporting">
             <span class="mdc-image-list__label">Text label</span>
           </div>
         </li>
         <li class="mdc-image-list__item">
-          <img class="mdc-image-list__image" src="">
+          <img class="mdc-image-list__image" src="<?php bloginfo('template_directory') ?>/assets/img/nat-4.jpg">
           <div class="mdc-image-list__supporting">
             <span class="mdc-image-list__label">Text label</span>
           </div>
         </li>
         <li class="mdc-image-list__item">
-          <img class="mdc-image-list__image" src="">
+          <img class="mdc-image-list__image" src="<?php bloginfo('template_directory') ?>/assets/img/nat-4.jpg">
           <div class="mdc-image-list__supporting">
             <span class="mdc-image-list__label">Text label</span>
           </div>
         </li>
         <li class="mdc-image-list__item">
-          <img class="mdc-image-list__image" src="">
+          <img class="mdc-image-list__image" src="<?php bloginfo('template_directory') ?>/assets/img/nat-4.jpg">
           <div class="mdc-image-list__supporting">
             <span class="mdc-image-list__label">Text label</span>
           </div>
         </li>
         <li class="mdc-image-list__item">
-          <img class="mdc-image-list__image" src="">
+          <img class="mdc-image-list__image" src="<?php bloginfo('template_directory') ?>/assets/img/nat-4.jpg">
           <div class="mdc-image-list__supporting">
             <span class="mdc-image-list__label">Text label</span>
           </div>
         </li>
         <li class="mdc-image-list__item">
-          <img class="mdc-image-list__image" src="">
+          <img class="mdc-image-list__image" src="<?php bloginfo('template_directory') ?>/assets/img/nat-4.jpg">
           <div class="mdc-image-list__supporting">
             <span class="mdc-image-list__label">Text label</span>
           </div>
         </li>
         <li class="mdc-image-list__item">
-          <img class="mdc-image-list__image" src="">
+          <img class="mdc-image-list__image" src="<?php bloginfo('template_directory') ?>/assets/img/nat-4.jpg">
           <div class="mdc-image-list__supporting">
             <span class="mdc-image-list__label">Text label</span>
           </div>
