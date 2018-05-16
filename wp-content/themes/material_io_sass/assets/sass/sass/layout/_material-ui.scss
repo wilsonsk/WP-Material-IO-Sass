@@ -18,13 +18,13 @@
       width: 100%;
 
       &:active {
-        width: calc(100%-250px);
+        width: calc(100% / 1.618px);
       }
     }
   }
 
   &__sidebar {
-    width: calc(100% / 1.618px);
+    width: calc(100% - (100% / 1.618px));
     position: fixed;
     top: 0;
     left: 0;
