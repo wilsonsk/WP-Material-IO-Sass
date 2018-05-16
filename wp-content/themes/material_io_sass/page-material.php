@@ -41,7 +41,7 @@ get_header();
     <div class="ui__content">
       <ul class="mdc-image-list mdc-image-list--masonry my-masonry-image-list">
         <li class="mdc-image-list__item">
-          <img class="mdc-image-list__image" src="../img/nat-4.jpg">
+          <img class="mdc-image-list__image" src="<?php bloginfo('template_directory') ?>/assets/img/nat-4.jpg"">
           <div class="mdc-image-list__supporting">
             <span class="mdc-image-list__label">Text label</span>
           </div>
