@@ -1,6 +1,6 @@
-@import url(../../node_modules/@material/image-list/_mixins.scss);
-@import url(../../../node_modules/@material/image-list/_variables.scss);
-@import url(../../node_modules/@material/image-list/mdc-image-list.scss);
+@import "../../node_modules/@material/image-list/mdc-image-list.scss";
+
+
 // MATERIAL:
 .ui {
   &__content {
