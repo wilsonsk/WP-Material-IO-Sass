@@ -67,7 +67,3 @@
   	border-bottom: 1px solid #47748b;
   }
 }
-
-.my-masonry-image-list {
-  @include mdc-image-list-masonry-columns(5);
-}
