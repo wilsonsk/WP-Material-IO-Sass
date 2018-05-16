@@ -41,7 +41,7 @@ get_header();
     <div class="ui__content">
 
 
-        <div class="mdc-layout-grid mdc-layout-grid--align-right" style="border:solid red 3px;">
+        <div class="mdc-layout-grid" style="border:solid red 3px;">
           <div class="mdc-layout-grid__inner" style="border:solid green 2px;">
             <div class="mdc-layout-grid__cell--span-6rightstyle="border:solid black 1px;">
               span 6
