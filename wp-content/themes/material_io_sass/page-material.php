@@ -39,7 +39,56 @@ get_header();
     </nav>
 
     <div class="ui__content">
-
+      <ul class="mdc-image-list mdc-image-list--masonry my-masonry-image-list">
+        <li class="mdc-image-list__item">
+          <img class="mdc-image-list__image" src="">
+          <div class="mdc-image-list__supporting">
+            <span class="mdc-image-list__label">Text label</span>
+          </div>
+        </li>
+        <li class="mdc-image-list__item">
+          <img class="mdc-image-list__image" src="">
+          <div class="mdc-image-list__supporting">
+            <span class="mdc-image-list__label">Text label</span>
+          </div>
+        </li>
+        <li class="mdc-image-list__item">
+          <img class="mdc-image-list__image" src="">
+          <div class="mdc-image-list__supporting">
+            <span class="mdc-image-list__label">Text label</span>
+          </div>
+        </li>
+        <li class="mdc-image-list__item">
+          <img class="mdc-image-list__image" src="">
+          <div class="mdc-image-list__supporting">
+            <span class="mdc-image-list__label">Text label</span>
+          </div>
+        </li>
+        <li class="mdc-image-list__item">
+          <img class="mdc-image-list__image" src="">
+          <div class="mdc-image-list__supporting">
+            <span class="mdc-image-list__label">Text label</span>
+          </div>
+        </li>
+        <li class="mdc-image-list__item">
+          <img class="mdc-image-list__image" src="">
+          <div class="mdc-image-list__supporting">
+            <span class="mdc-image-list__label">Text label</span>
+          </div>
+        </li>
+        <li class="mdc-image-list__item">
+          <img class="mdc-image-list__image" src="">
+          <div class="mdc-image-list__supporting">
+            <span class="mdc-image-list__label">Text label</span>
+          </div>
+        </li>
+        <li class="mdc-image-list__item">
+          <img class="mdc-image-list__image" src="">
+          <div class="mdc-image-list__supporting">
+            <span class="mdc-image-list__label">Text label</span>
+          </div>
+        </li>
+      </ul>
 
         <div class="mdc-layout-grid mdc-layout-grid--align-right" style="border:solid red 3px;">
           <div class="mdc-layout-grid__inner" style="border:solid green 2px;">
