@@ -41,15 +41,15 @@ get_header();
     <div class="ui__content">
 
 
-        <div class="mdc-layout-grid" style="border:solid red 3px;">
+        <div class="mdc-layout-grid mdc-layout-grid--align-right" style="border:solid red 3px;">
           <div class="mdc-layout-grid__inner" style="border:solid green 2px;">
-            <div class="mdc-layout-grid__cell--span-6-desktop" style="border:solid black 1px;">
+            <div class="mdc-layout-grid__cell--span-6rightstyle="border:solid black 1px;">
               span 6
             </div>
             <div class="mdc-layout-grid__cell--span-6-desktop" style="border:solid black 1px;">
               span 6
             </div>
-            <div class="mdc-layout-grid__cell--span-2 mdc-layout-grid__cell--order-8" style="border:solid black 1px;">
+            <div class="mdc-layout-grid__cell--span-2" style="border:solid black 1px;">
               span 4
             </div>
           </div>
