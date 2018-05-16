@@ -64,7 +64,7 @@ get_header();
             <div class="mdc-layout-grid__cell--span-6-desktop" style="border:solid black 1px;">
               <h1>Test2</h1>
             </div>
-            <div class="mdc-layout-grid__cell--span-2-desktop mdc-layout-grid-__cell--align-middle" style="border:solid black 1px;">
+            <div class="mdc-layout-grid__cell--span-2-desktop mdc-layout-grid__cell--align-middle" style="border:solid black 1px;">
               <h1>Test3</h1>
             </div>
           </div>
