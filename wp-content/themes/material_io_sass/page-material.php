@@ -43,10 +43,10 @@ get_header();
 
         <div class="mdc-layout-grid mdc-layout-grid--align-right" style="border:solid red 3px;">
           <div class="mdc-layout-grid__inner" style="border:solid green 2px;">
-            <div class="mdc-layout-grid__cell--span-6right" style="border:solid black 1px;">
+            <div class="mdc-layout-grid__cell--span-6" style="border:solid black 1px;">
               span 6
             </div>
-            <div class="mdc-layout-grid__cell--span-6-desktop" style="border:solid black 1px;">
+            <div class="mdc-layout-grid__cell--span-6" style="border:solid black 1px;">
               span 6
             </div>
             <div class="mdc-layout-grid__cell--span-2" style="border:solid black 1px;">
