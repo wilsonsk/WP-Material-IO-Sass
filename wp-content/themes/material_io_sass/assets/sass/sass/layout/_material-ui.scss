@@ -61,3 +61,7 @@
 .my-masonry-image-list {
   @include mdc-image-list-masonry-columns(5);
 }
+
+.mdc-card {
+  @include mdc-card-fill-color(orangered);
+}

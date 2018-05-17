@@ -93,13 +93,19 @@ get_header();
         <div class="mdc-layout-grid mdc-layout-grid--align-right" style="border:solid red 3px;">
           <div class="mdc-layout-grid__inner" style="border:solid green 2px;">
             <div class="mdc-layout-grid__cell--span-6" style="border:solid black 1px;">
-              span 6
+              <div class="mdc-card">
+                <h1>orangered</h1>
+              </div>
             </div>
             <div class="mdc-layout-grid__cell--span-6" style="border:solid black 1px;">
-              span 6
+              <div class="mdc-card">
+                <h1>orangered</h1>
+              </div>
             </div>
             <div class="mdc-layout-grid__cell--span-2" style="border:solid black 1px;">
-              span 4
+              <div class="mdc-card">
+                <h1>orangered</h1>
+              </div>
             </div>
           </div>
         </div>
