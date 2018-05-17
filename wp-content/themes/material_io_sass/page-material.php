@@ -90,28 +90,42 @@ get_header();
         </li>
       </ul>
 
-        <div class="mdc-layout-grid mdc-layout-grid--align-right" style="border:solid red 3px;">
-          <div class="mdc-layout-grid__inner" style="border:solid green 2px;">
-            <div class="mdc-layout-grid__cell--span-3" style="border:solid black 1px;">
-              <div class="mdc-card">
-                <div class="mdc-card__media mdc-card__media--square my-card__media mdc-card__media--square">
-                  <div class="mdc-card__media-content">Title</div>
-                </div>
-                <h1>orangered</h1>
+      <div class="mdc-layout-grid mdc-layout-grid--align-right" style="border:solid red 3px;">
+        <div class="mdc-layout-grid__inner" style="border:solid green 2px;">
+          <div class="mdc-layout-grid__cell--span-3" style="border:solid black 1px;">
+            <div class="mdc-card">
+              <div class="mdc-card__media mdc-card__media--square my-card__media mdc-card__media--square">
+                <div class="mdc-card__media-content">Title</div>
               </div>
+              <h1>orangered</h1>
             </div>
-            <div class="mdc-layout-grid__cell--span-9" style="border:solid black 1px;">
-              <div class="mdc-card">
-                <h1>orangered</h1>
-              </div>
+          </div>
+          <div class="mdc-layout-grid__cell--span-9" style="border:solid black 1px;">
+            <div class="mdc-card">
+              <h1>orangered</h1>
             </div>
-            <div class="mdc-layout-grid__cell--span-2" style="border:solid black 1px;">
-              <div class="mdc-card">
-                <h1>orangered</h1>
-              </div>
+          </div>
+          <div class="mdc-layout-grid__cell--span-2" style="border:solid black 1px;">
+            <div class="mdc-card">
+              <h1>orangered</h1>
             </div>
           </div>
         </div>
+      </div>
+
+      <div class="mdc-layout-grid">
+        <div class="mdc-layout-grid__inner">
+          <div class="mdc-layout-grid__cell--span-6">
+            <div class="mdc-card">
+              <div class="mdc-card__media mdc-card__media--square my-card__media mdc-card__media--square">
+                <div class="mdc-card__media-content">Title</div>
+              </div>
+              <h1>Welcome</h1>
+            </div>
+          </div>
+        </div>
+      </div>
+
   </div>
 
 
