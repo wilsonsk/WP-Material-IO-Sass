@@ -32,7 +32,7 @@
 	<link href="<?php bloginfo('stylesheet_directory'); ?>/assets/sass/css/icons.css" rel="stylesheet">
 
 	<!-- MATERIAL IO -->
-	<!-- <link rel="stylesheet" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css"> -->
+	<link rel="stylesheet" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css">
 
 	</script>
 	<!-- Google Fonts -->
