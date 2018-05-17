@@ -26,13 +26,13 @@
 	<!-- Bootstrap core CSS -->
 	<link href="<?php bloginfo('stylesheet_directory'); ?>/assets/css/bootstrap.min.css" rel="stylesheet">
 
+	<!-- MATERIAL IO -->
+	<link rel="stylesheet" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css">
+
 	<!-- Font Awesome Icons -->
 	<link href="<?php bloginfo('stylesheet_directory'); ?>/assets/css/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<link href="<?php bloginfo('stylesheet_directory'); ?>/assets/sass/css/style.css" rel="stylesheet">
 	<link href="<?php bloginfo('stylesheet_directory'); ?>/assets/sass/css/icons.css" rel="stylesheet">
-
-	<!-- MATERIAL IO -->
-	<link rel="stylesheet" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css">
 
 	</script>
 	<!-- Google Fonts -->
