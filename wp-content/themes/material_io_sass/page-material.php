@@ -94,7 +94,7 @@ get_header();
           <div class="mdc-layout-grid__inner" style="border:solid green 2px;">
             <div class="mdc-layout-grid__cell--span-6" style="border:solid black 1px;">
               <div class="mdc-card">
-                <div class="mdc-card__media mdc-card__media--square">
+                <div class="mdc-card__media mdc-card__media--square my-card__media">
                   <div class="mdc-card__media-content">Title</div>
                 </div>
                 <h1>orangered</h1>
