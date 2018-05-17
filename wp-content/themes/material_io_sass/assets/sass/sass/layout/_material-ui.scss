@@ -63,5 +63,7 @@
 }
 .my-card__media {
   background-image: url("../../img/nat-3.jpg");
+  height: 350px;
+
   @include mdc-card-corner-radius(3px);
 }
