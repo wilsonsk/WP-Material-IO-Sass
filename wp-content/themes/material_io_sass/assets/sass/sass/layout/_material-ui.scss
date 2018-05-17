@@ -59,7 +59,7 @@
 }
 
 .my-masonry-image-list {
-  @include mdc-image-list-masonry-columns(5);
+  @include mdc-image-list-masonry-columns(3);
 }
 
 .mdc-card {
